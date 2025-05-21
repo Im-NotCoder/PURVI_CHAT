@@ -11,7 +11,7 @@ DEV_OP = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=OWNER),
+        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="tg://user?id=7001106191"),
         InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴍᴅs", callback_data="HELP"),
     ],
 ]
